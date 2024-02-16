@@ -18,6 +18,9 @@ To create impactful digital experiences through innovative design and developmen
 ## 📫 Get in Touch
 Feel free to reach out to us for a quote on your next project at wavecrestweb@gmail.com.
 
+## 📈 Current Projects
+- **Kenworthy Machine**: Currently in active development, this project aims to overhaul and modernize the online presence of a local machine company.
+- **Pickleball 2 the People**: In the design phase, our team is collaborating closely with the designer to lay out the wireframes for an engaging and community-focused pickleball resource.
 
 <!--
 
