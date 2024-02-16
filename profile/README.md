@@ -1,4 +1,4 @@
-# 👋 Welcome to Wavecrest Web Collective!
+# :ocean: Welcome to Wavecrest Web Collective!
 
 We are a collective of passionate software engineers dedicated to building websites and tools that empower our clients to achieve their digital dreams. Our approach combines technical excellence with a collaborative spirit to deliver exceptional results.
 
@@ -11,12 +11,12 @@ To create impactful digital experiences through innovative design and developmen
 - **UI/UX Design**: Designing intuitive and engaging user interfaces.
 
 ## 🌟 Meet the Team
--  [Alex] - Full Stack Engineer
--  [Archaa] - Full Stack Engineer
--  [Brett] - Full Stack Engineer
+-  [Alex](https://github.com/alibacova) - Full Stack Engineer
+-  [Archaa](https://github.com/avinashi10) - Full Stack Engineer
+-  [Brett](https://github.com/BrettEastman) - Full Stack Engineer
 
 ## 📫 Get in Touch
-Feel free to reach out to us for your next project or if you'd like to collaborate. We're always excited to connect with others who share our passion for technology and innovation.
+Feel free to reach out to us for a quote on your next project at wavecrestweb@gmail.com.
 
 
 <!--
